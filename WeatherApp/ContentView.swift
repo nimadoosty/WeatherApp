@@ -37,6 +37,7 @@ struct ContentView: View {
                     HStack{
                         VStack{
                             Text("hi")
+                            Text("Another test")
                         }
                     }
                     
